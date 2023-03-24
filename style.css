@@ -1,0 +1,199 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.top_bar{
+    background-image:linear-gradient(to right,brown,chocolate,black); 
+    width: 100%;
+    height:8vh;
+    text-align: center;
+    align-items: center;
+}
+
+.heading_top{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 5px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.nav nav{
+    background-color: brown;
+    width: 100%;
+}
+
+.logo-img{
+    height: 80px;
+    width: 85px;
+    border-radius: 50%;
+    background-color:#22ffc0;
+    transition: .2s;
+}
+
+.logo-img:hover{
+    height: 80px;
+    width: 90px;
+}
+
+.header-nav ul li a{
+    color: white;
+    font-weight:600;
+    font-size:30px;
+    font-family: 'Righteous', cursive;
+    transition: .2s ;
+    margin-left: 40px;
+}
+
+.header-nav ul li a:hover{
+    font-size: 32px;
+    color:yellow;
+}
+
+.part1{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: brown;
+    height: 600px;
+}
+
+.heading_part1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+}
+
+.heading_sub_part1{
+    color: black;
+    font-size: 30px;
+    padding: 10px 10px 20px 20px;
+}
+
+.heading_part2{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+}
+
+.heading_sub_part2{
+    color: black;
+    font-size: 30px;
+    padding: 10px 10px 20px 20px;
+}
+
+.img2{
+    width: 100%;
+    height: 600px;
+}
+
+.img1{
+    width: 100%;
+    height: 600px;
+}
+
+.part2{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: brown;
+    height: 600px;
+}
+
+.footer{
+    background-color: darkred;
+    width: 100%;
+    height: 40%;
+    margin-top: 10px;
+}
+
+.feedback_heading{
+    padding-top: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Rubik Iso', cursive;
+}
+
+.contact_heading{
+    padding-top: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Rubik Iso', cursive;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.fa-square-instagram{
+    padding-top: 20px;
+    color: black;
+    font-size: 40px;
+}
+
+.fa-square-instagram:hover{
+    color: purple;
+    transform: scale3d(1.1,1.1,1.1);
+}
+
+ul li span{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.fa-square-facebook{
+    padding-top: 20px;
+    color: black;
+    font-size: 40px;
+}
+
+.fa-square-facebook:hover{
+    color: blue;
+    transform: scale3d(1.1,1.1,1.1);
+}
+
+.fa-envelope{
+    padding-top: 20px;
+    color: black;
+    font-size: 40px;
+}
+
+.fa-envelope:hover{
+    color: white;
+    transform: scale3d(1.1,1.1,1.1);
+}
+
+.footer_heading1{
+    padding-top: 20px;
+    padding-left: 20px;
+    color:white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Rubik Iso', cursive;
+}
+
+svg{
+    padding-left: 90px;
+}
+
+.support_heading{
+    color: white;
+    font-size: 35px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+.fa-phone{
+    color: black;
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+.fa-phone:hover{
+    transform: scale3d(1.1,1.1,1.1);
+    color: green;
+}
